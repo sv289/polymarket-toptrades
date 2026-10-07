@@ -1,5 +1,6 @@
 import json
 import time
+import os
 from datetime import datetime, timezone
 
 import requests
@@ -78,6 +79,7 @@ def main():
         "traders": traders,
         "trades": all_trades,
     }
+    os.makedirs("data", exist_ok=True)
     with open("data/traders.json", "w") as f:
         json.dump(out, f, indent=2)
     print(f"Wrote {len(traders)} traders and {len(all_trades)} trades")
