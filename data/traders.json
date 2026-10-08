@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:51:22.336713+00:00",
+  "generated_at": "2026-10-08T12:09:08.121520+00:00",
   "category": "POLITICS",
   "time_period": "ALL",
   "traders": [
@@ -144,7 +144,7 @@
       "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
       "username": "wan123",
       "pnl": 1987048.292166,
-      "volume": 36580869.055541046,
+      "volume": 36598835.28613305,
       "verified": null
     },
     {
@@ -200,7 +200,7 @@
       "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
       "username": "aenews2",
       "pnl": 1275093.33281,
-      "volume": 151686370.7619369,
+      "volume": 151756331.6881869,
       "verified": null
     },
     {
@@ -208,7 +208,7 @@
       "wallet": "0xf2f6af4f27ec2dcf4072095ab804016e14cd5817",
       "username": "gopfan2",
       "pnl": 1251314.533297,
-      "volume": 34630547.917468,
+      "volume": 34630547.917468004,
       "verified": null
     },
     {
@@ -231,8 +231,8 @@
       "rank": 29,
       "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
       "username": "Car",
-      "pnl": 1091753.139541,
-      "volume": 120661894.18014795,
+      "pnl": 1091593.399408,
+      "volume": 120678836.63166894,
       "verified": true
     },
     {
@@ -255,8 +255,8 @@
       "rank": 32,
       "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
       "username": "The Spirit of Ukraine>UMA",
-      "pnl": 1021489.634897,
-      "volume": 108970589.09925096,
+      "pnl": 1021445.145819,
+      "volume": 109044310.86425096,
       "verified": null
     },
     {
@@ -271,8 +271,8 @@
       "rank": 34,
       "wallet": "0x629bc4a1e53e1d475beb7ea3d388791e96dd995a",
       "username": "lava-lava",
-      "pnl": 959778.397946,
-      "volume": 39747745.16317998,
+      "pnl": 972394.237168,
+      "volume": 39750961.869956985,
       "verified": null
     },
     {
@@ -287,8 +287,8 @@
       "rank": 36,
       "wallet": "0x24c8cf69a0e0a17eee21f69d29752bfa32e823e1",
       "username": "debased",
-      "pnl": 936670.612934,
-      "volume": 229264922.985508,
+      "pnl": 936765.845315,
+      "volume": 229280107.449844,
       "verified": null
     },
     {
@@ -296,7 +296,7 @@
       "wallet": "0x9d84ce0306f8551e02efef1680475fc0f1dc1344",
       "username": "ImJustKen",
       "pnl": 931687.54163,
-      "volume": 333753276.75555384,
+      "volume": 333776954.04555386,
       "verified": true
     },
     {
@@ -83284,6 +83284,42 @@
     {
       "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
       "username": "Car",
+      "timestamp": 1791420847,
+      "side": "BUY",
+      "market": "Will Marco Rubio win the 2028 US Presidential Election?",
+      "outcome": "Yes",
+      "size": 5278.39,
+      "price": 0.0595954164,
+      "event_slug": "presidential-election-winner-2028",
+      "tx_hash": "0xc8d298b5cd10dcb19bca67b67ca6e4fef7248d51a735fe993452d5e4a5805897"
+    },
+    {
+      "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+      "username": "Car",
+      "timestamp": 1791420772,
+      "side": "SELL",
+      "market": "Israel x Iran ceasefire continues through December 31?",
+      "outcome": "Yes",
+      "size": 5324,
+      "price": 0.59,
+      "event_slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "tx_hash": "0x7dba59e4b1df9ed056330a1ad01e5b4b5218897f36f21722d91113e977b552f5"
+    },
+    {
+      "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+      "username": "Car",
+      "timestamp": 1791415381,
+      "side": "SELL",
+      "market": "Will Artificial Inu be the first to hit a $1B FDV?",
+      "outcome": "Yes",
+      "size": 1000,
+      "price": 0.1,
+      "event_slug": "first-to-hit-1b-fdv-ansem-cashcat-ai-or-net-20260902214135",
+      "tx_hash": "0x0f4d356408a0beb8ae8842e6025515071d60a286ea369f103d66ce626b58bc5e"
+    },
+    {
+      "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+      "username": "Car",
       "timestamp": 1791408336,
       "side": "SELL",
       "market": "US x Iran ceasefire continues through October 31?",
@@ -89244,42 +89280,6 @@
       "price": 0.002,
       "event_slug": "epl-2026-27-top-2-finishers",
       "tx_hash": "0x8f9bd2984ad3b19ed007e7a9eb79690a3419fff2c787592e6280834482d49755"
-    },
-    {
-      "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
-      "username": "Car",
-      "timestamp": 1789009465,
-      "side": "SELL",
-      "market": "LAPTOP FDV above $1.5B one day after launch?",
-      "outcome": "Yes",
-      "size": 100,
-      "price": 0.245,
-      "event_slug": "laptop-fdv-above-one-day-after-launch",
-      "tx_hash": "0xff622cb348e0db17bc70cad212d015ec02e9fee52ecf06a169bc9bd1495e9a09"
-    },
-    {
-      "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
-      "username": "Car",
-      "timestamp": 1789009114,
-      "side": "BUY",
-      "market": "Will Go Ahead Eagles be relegated from the 2026-27 Eredivisie?",
-      "outcome": "No",
-      "size": 72,
-      "price": 0.9,
-      "event_slug": "eredivisie-teams-relegated-2026-27",
-      "tx_hash": "0xb6ebcdd7ac519e97454672f30b2fc20b253a6b9b53b2f4d563565436881d2725"
-    },
-    {
-      "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
-      "username": "Car",
-      "timestamp": 1789009089,
-      "side": "BUY",
-      "market": "Will Fortuna Sittard be relegated from the 2026-27 Eredivisie?",
-      "outcome": "No",
-      "size": 248,
-      "price": 0.8964516129,
-      "event_slug": "eredivisie-teams-relegated-2026-27",
-      "tx_hash": "0x864a2317b848525f4705b2b823eb1beac578b74be11778ef4cf3e5c5833c632f"
     },
     {
       "wallet": "0x000d257d2dc7616feaef4ae0f14600fdf50a758e",
